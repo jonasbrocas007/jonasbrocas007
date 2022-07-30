@@ -1,5 +1,9 @@
 ### I'am jonasbrocas, you maybe know me because i am the best programmer in the world 👋
-e
+I work at Pobre da Silva, the most cheapskate company ever, at Pobre da Silva we only use free software (as in freedom) and if we need to use propiertary software we crack to get it for free (as in free beer).
+I like low level stuff
+I like Operating systems and programming languages
+I use arch Btw
+My main programming language is python but i know python and rust.
 
 <!--
 **jonasbrocas007/jonasbrocas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
