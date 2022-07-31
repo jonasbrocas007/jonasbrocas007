@@ -4,6 +4,9 @@ I like low level stuff.
 I like Operating systems and programming languages.  
 I use arch Btw.  
 My main programming language is python but i know python and rust.  
+### Project Updates.  
+31/07 - Transfered Badalhoco-Code to Comunismno.  
+31/07 - Dumped MaltaLang for a while at least.  
 
 <!--
 **jonasbrocas007/jonasbrocas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
