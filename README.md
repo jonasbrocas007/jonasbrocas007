@@ -3,7 +3,7 @@ I work at Pobre da Silva, the most cheapskate company ever, at Pobre da Silva we
 I like low level stuff.  
 I like Operating systems and programming languages.  
 I use arch Btw.  
-My main programming language is python but i know python and rust.  
+My main programming language is python but i know python, go and some more stuff.  
 
 <!--
 **jonasbrocas007/jonasbrocas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
