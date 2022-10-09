@@ -1,8 +1,7 @@
-### I'am jonasbrocas, you maybe know me because i am the best programmer in the world 👋
-I work at Pobre da Silva, the most cheapskate company ever, at Pobre da Silva we only use free software (as in freedom) and if we need to use propiertary software we crack to get it for free (as in free beer).  
-I like low level stuff.  
+### I'am jonasbrocas, i one of the worse programmers in the world  
+I like teorical programming and computing  
+I like to study programming languages  
 I like Operating systems and programming languages.  
-I use arch Btw.  
 My main programming language is python but i know python, go and some more stuff.  
 
 <!--
